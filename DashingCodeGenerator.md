@@ -1,7 +1,7 @@
 # Программа DashingCodeGenerator
 
 [Ссылка на исходный код](https://github.com/kisa47/DashingCodeEditor)
-[Скаяать для Android](https://github.com/kisa47/DashingCodeEditor/releases/latest)
+[Скачать для Android](https://github.com/kisa47/DashingCodeEditor/releases/latest)
 
 Программа служит для просмотра текущей конфигурации или её изменения на основе кодировок комплектаций в блоках автомобиля.
 
