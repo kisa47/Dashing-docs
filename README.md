@@ -4,6 +4,6 @@
 
 ## Оглавление
 
-- [Программа DashingCodeGenerator](./dcg.md)
+- [Программа DashingCodeGenerator](./DashingCodeGenerator.md)
 - [Пример активаций функций](./function_activation.md)
 <!-- - [Перечень блоков](./blocs_list.md) -->
